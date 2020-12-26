@@ -1,0 +1,6 @@
+#CMD commands for flushing DNS
+
+ipconfig /flushdns
+ipconfig /registerdns
+ipconfig /release
+ipconfig /renew
